@@ -1,4 +1,4 @@
-# 21_gathering_requirements
+# 21 Gathering Requirements
 Agenda day 21 (design)
 
 ## Literature:
