@@ -8,5 +8,5 @@ Agenda day 21 (design)
 
 ## Exercises:
 * [Øvelse: FURPS til https://www.no-17.dk/](https://github.com/keadat1st/21_exercise_furps_no_17/blob/master/README.md)
-* [Øvelse: FURPS+ til CarWash](https://github.com/keadat1st/21_exercise_furps_carwash/blob/master/README.md)
+* [Øvelse: FURPS+ til CarWash](https://github.com/keadat1st/21_ExerciseFURPSforCarWash/blob/master/README.md)
 
